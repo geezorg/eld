@@ -1,0 +1,80 @@
+feature rlig {
+  # The ሃሌ ligature
+  sub uni1203 uni200D uni120C by halie.ligature;
+  # The ሃሌሉ ligature
+  sub uni1203 uni200D uni120C uni200D uni1209 by halielu.ligature;
+  # The ሌሉ ligature
+  sub uni120C uni200D uni1209 by lielu.ligature;
+  # The ሌሉያ ligature
+  sub uni120C uni200D uni1209 uni200D uni12EB by lieluya.ligature;
+  # The ሌሊ ligature
+  sub uni120C uni200D uni120A by lieli.ligature;
+  # The ሌሌ ligature
+  sub uni120C uni200D uni120C by lielie.ligature;
+  # The ሌል ligature
+  sub uni120C uni200D uni120D by liel.ligature;
+  # The ልሌ ligature
+  sub uni120D uni200D uni120C by llie.ligature;
+  # The ማር ligature
+  sub uni121B uni200D uni122D by mar.ligature;
+  # The ምው ligature
+  sub uni121D uni200D uni12CD by mw.ligature;
+  # The ሞሙ ligature
+  sub uni121E uni200D uni1219 by momu.ligature;
+  # The ቆመ ligature
+  sub uni1246 uni200D uni1218 by gome.ligature;
+  # The ቍመ ligature
+  sub uni124D uni200D uni1218 by quume.ligature;
+  # The በ፪ ligature
+  sub uni1260 uni200D uni136A by be2.ligature;
+  # The በል ligature
+  sub uni1260 uni200D uni120D by bel.ligature;
+  # The ብል ligature
+  sub uni1265 uni200D uni120D by bl.ligature;
+  # The ብሔ ligature
+  sub uni1265 uni200D uni1214 by bhhie.ligature;
+  # The ብር ligature
+  sub uni1265 uni200D uni122D by br.ligature;
+  # The ኆኈ ligature
+  sub uni1286 uni200D uni1288 by hhohhue.ligature;
+  # The ኤል ligature
+  sub uni12A4 uni200D uni120D by Aiel.ligature;
+  # The ከል ligature
+  sub uni12A8 uni200D uni120D by kel.ligature;
+  # The ክር ligature
+  sub uni12AD uni200D uni122D by kr.ligature;
+  # The ክሮ ligature
+  sub uni12AD uni200D uni122E by kro.ligature;
+  # The ክሙ ligature
+  sub uni12AD uni200D uni1219 by kmu.ligature;
+  # The ዎው ligature
+  sub uni12CE uni200D uni12CD by wwo.ligature;
+  # The ዘር ligature
+  sub uni12D8 uni200D uni122D by zer.ligature;
+  # The ዝየ ligature
+  sub uni12DD uni200D uni12E8 by zye.ligature;
+  # The ያዩ ligature
+  sub uni12EB uni200D uni12E9 by yayu.ligature;
+  # The ገር ligature
+  sub uni1308 uni200D uni122D by ger.ligature;
+  # The ጌል ligature
+  sub uni130C uni200D uni120D by giel.ligature;
+  # The ግሮ ligature
+  sub uni130D uni200D uni122E by gro.ligature;
+  # The ግሥ ligature
+  sub uni130D uni200D uni1225 by gss.ligature;
+  # The ግቡ ligature
+  sub uni130D uni200D uni1261 by gbu.ligature;
+  # The ግዘ ligature
+  sub uni130D uni200D uni12D8 by gze.ligature;
+  # The ግዚ ligature
+  sub uni130D uni200D uni12DA by gzi.ligature;
+  # The ግጉ ligature
+  sub uni130D uni200D uni1309 by ggu.ligature;
+  # The ጓጐ ligature
+  sub uni1313 uni200D uni1310 by guague.ligature;
+  # The ጽጺ ligature
+  sub uni133D uni200D uni133A by tstsi.ligature;
+  # The ፅፁ ligature
+  sub uni1345 uni200D uni1341 by tztzu.ligature;
+} rlig;
